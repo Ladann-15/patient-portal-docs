@@ -14,7 +14,7 @@ Audience: patients and non technical users who need clear instructions.
 ## How to use
 1. Review the PDF to understand the feature overview.  
 2. Open the HTML file for an example of clear step by step documentation structure.  
-3. Use the assets as reference points for writing simple, accessible user instructions.
+3. Use the PDF and HTML files as examples for creating clear, accessible instructions.
 
 ## Author
 Ladan Mohamed  
